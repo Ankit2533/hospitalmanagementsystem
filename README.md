@@ -25,7 +25,9 @@ Hospital Management System using MySQL, Php and Bootstrap
 7. Import the file 'myhmsdb.sql' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/index.php' in the url of your browser
 9. Hurray! That's it!
-    
+
+![Screenshot 2024-08-22 195524](https://github.com/user-attachments/assets/5e8efd12-02d2-4bd0-b3f1-fe900dd5021d)
+
   
 
 
